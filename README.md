@@ -36,6 +36,8 @@ rules:
 
 MIT
 
+# TODO: add more error handling
+# TODO: consider async version
 
 # Reformatted
 
